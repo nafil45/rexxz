@@ -1,0 +1,85 @@
+body {
+    background-size: cover;
+    font-family: 'Segoe UI', sans-serif;
+    background-image: url(bahan/Dark\ gray\ plain\ concrete\ textured\ background….jpg)
+    
+    
+}
+
+.container {
+    max-width: 700px;
+    margin: 50px auto;
+    background-color: rgb(41, 40, 40);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0 auto 15px;
+}
+
+h1 {
+    margin: 0;
+    color: white;
+}
+
+.section {
+    margin-bottom: 25px;
+}
+
+h2 {
+    border-left: 4px solid whitesmoke;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin: 5px 0;
+    color: white;
+}
+
+.project-box {
+    background-color: #8C8C8C;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.project-box h3 {
+    margin-top: 0;
+}
+
+.link {
+    display: inline-block;
+    margin-top: 8px;
+    background-color: #1a73e8;
+    color: white;
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+}
+
+.link:hover {
+    background-color: #1669c1;
+}
